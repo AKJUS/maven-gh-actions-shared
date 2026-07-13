@@ -23,3 +23,9 @@ updates:
     target-branch: "v4"
     schedule:
       interval: "daily"
+
+  - package-ecosystem: "maven"
+    directory: "/"
+    target-branch: "v4"
+    schedule:
+      interval: "daily"
